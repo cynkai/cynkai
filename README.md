@@ -1,6 +1,6 @@
 Undergraduate research intern at [SysCore Lab](https://syscore.sejong.ac.kr/), Sejong University.
 
-Interested in system security — Linux observability with eBPF, and hardware/firmware analysis.
+Aspiring cloud security engineer. Interested in security monitoring and anomaly detection, AI security (prompt injection), and threat intelligence.
 
 **Now**
 - SysCore Lab — hardware and firmware security analysis of satellite communication equipment
