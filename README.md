@@ -1,4 +1,4 @@
-Information Security, Namseoul University · Undergraduate research intern at [SysCore Lab](https://syscore.sejong.ac.kr/) (Sejong University)
+Undergraduate Student Researcher intern at [SysCore Lab](https://syscore.sejong.ac.kr/) (Sejong University)
 
 Interested in system security — Linux observability with eBPF, and hardware/firmware analysis.
 
