@@ -1,4 +1,4 @@
-Undergraduate research intern at [SysCore Lab](https://syscore.sejong.ac.kr/), Sejong University.
+Undergraduate Researcher Intern at [SysCore Lab.](https://syscore.sejong.ac.kr/), Sejong University.
 
 Aspiring cloud security engineer. Interested in security monitoring and anomaly detection, AI security (prompt injection), and threat intelligence.
 
