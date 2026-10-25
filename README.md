@@ -3,7 +3,7 @@ Undergraduate Researcher Intern at [SysCore Lab.](https://syscore.sejong.ac.kr/)
 Aspiring cloud security engineer. Interested in security monitoring and anomaly detection, AI security (prompt injection), and threat intelligence.
 
 **Now**
-- SysCore Lab. — hardware and firmware security analysis of satellite communication equipment
+- [SysCore Lab.](https://syscore.sejong.ac.kr/) — hardware and firmware security analysis of satellite communication equipment
 - [Cloud Club](https://github.com/cloud-club/10th-jenkins-ansible-cicd-study) (10th cohort) — study group; finished Season 1 (CI/CD pipelines with Jenkins & Ansible), Season 2 starts Oct 2026
 - [Grafana & Friends Seoul](https://github.com/Grafana-Friends-Seoul) — organizing team for community meetups
 
